@@ -46,7 +46,7 @@ Este projeto implementa um sistema de controle utilizando um joystick analógico
 
 
 
-**Discente: Greique de araujo silva
+**Discente:** Greique de araujo silva
 
-**Curso: Sistema embarcado (Engenharia da computacao - UFRB).
+**Curso:** Sistema embarcado (Engenharia da computacao - UFRB).
 
