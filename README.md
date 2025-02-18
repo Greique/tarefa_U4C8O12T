@@ -40,7 +40,7 @@ Este projeto implementa um sistema de controle utilizando um joystick analógico
 4. Pressione o botão A para ativar/desativar os LEDs RGB controlados por PWM.
 5. O sistema funciona em um loop contínuo, capturando os dados do joystick e atualizando a saída correspondente.
 
-##Link do video:
+## Link do video:
 
 
 
@@ -48,5 +48,5 @@ Este projeto implementa um sistema de controle utilizando um joystick analógico
 
 **Discente:** Greique de araujo silva
 
-**Curso:** Sistema embarcado (Engenharia da computacao - UFRB).
+**Curso:** Sistema embarcado (Engenharia da computação - UFRB).
 
