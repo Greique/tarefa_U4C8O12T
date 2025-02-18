@@ -41,8 +41,7 @@ Este projeto implementa um sistema de controle utilizando um joystick analógico
 5. O sistema funciona em um loop contínuo, capturando os dados do joystick e atualizando a saída correspondente.
 
 ## Link do video:
-
-
+https://drive.google.com/file/d/1lJ2kcq1BVB6woXM8P9cQkkhvlIHJ8XCY/view?usp=sharing
 
 
 
