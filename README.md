@@ -42,7 +42,7 @@ Este projeto implementa um sistema de controle utilizando um joystick analógico
 
 ## Link do video:
 https://drive.google.com/file/d/1lJ2kcq1BVB6woXM8P9cQkkhvlIHJ8XCY/view?usp=sharing
-
+Peço desculpas pela rapidez em falar no video. Só foi disponibilizado 2 mim.
 
 
 **Discente:** Greique de araujo silva
